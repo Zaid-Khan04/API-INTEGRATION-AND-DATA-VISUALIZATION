@@ -1,3 +1,12 @@
+Task 1 – CODTECH Internship | API Integration & Data Visualization
+
+COMPANY: CODTECH IT SOLUTIONS
+NAME: ZAID KHAN
+INTERN ID: CTIS0875
+DOMAIN: Python Programming
+DURATION: 6 Weeks
+MENTOR: Neela Santhosh Kumar
+
 # 🌤️ Weather Pro - Real-time Weather Dashboard:-
 A professional weather dashboard providing real-time weather data and 7-day forecasts for any city worldwide. Features interactive visualizations and a modern, responsive design.
 
