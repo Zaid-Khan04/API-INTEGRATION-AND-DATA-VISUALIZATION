@@ -137,7 +137,7 @@ Forecast: api.openweathermap.org/data/2.5/forecast
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Zaid Khan**
 - GitHub: [@Zaid-Khan04](https://github.com/Zaid-Khan04)
 - Email: zk7193625@gmail.com
 
